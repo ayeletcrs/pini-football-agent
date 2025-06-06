@@ -7,7 +7,7 @@ st.title("⚽ Pini - Your Football Intelligence Agent")
 st.markdown("Ask me about transfer values, contracts, injuries, or hidden gems!")
 
 # ✅ הכניסי כאן את ה־API Key שלך
-openai.api_key = "PASTE-YOUR-API-KEY-HERE"
+openai.api_key = "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"
 
 with st.chat_message("assistant"):
     st.markdown("Hi brother, This is Pini")
